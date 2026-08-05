@@ -1,0 +1,7 @@
+target
+!target/demo-email-service-0.0.1-SNAPSHOT.jar
+.git
+.idea
+.mvn
+mvnw
+mvnw.cmd
